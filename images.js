@@ -10,8 +10,8 @@ const productImages = {
     2: {
         id: 2,
         name: 'Elegant Step Heels',
-        imageUrl: 'https://images.unsplash.com/photo-1597805212624-bc7d8f3da4a6?w=400&h=400&fit=crop',
-        thumbnailUrl: 'https://images.unsplash.com/photo-1597805212624-bc7d8f3da4a6?w=150&h=150&fit=crop',
+        imageUrl: 'https://imgs.search.brave.com/gOv2x0PTaR6DF3lpjYB7_aD0uPI6ryPEpL8gRK9l2a4/rs:fit:400:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzIv/Nzg0LzI1MC9zbWFs/bC9jbG9zZS11cC1v/Zi15ZWxsb3ctYm9v/dHMtd2l0aC1vcnRo/b3BlZGljLWluc29s/ZXMtaW5zaWRlLW9u/LWEtc2hvZS1zaGVs/Zi1waG90by5qcGc',
+        thumbnailUrl: 'https://imgs.search.brave.com/gOv2x0PTaR6DF3lpjYB7_aD0uPI6ryPEpL8gRK9l2a4/rs:fit:150:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzIv/Nzg0LzI1MC9zbWFs/bC9jbG9zZS11cC1v/Zi15ZWxsb3ctYm9v/dHMtd2l0aC1vcnRo/b3BlZGljLWluc29s/ZXMtaW5zaWRlLW9u/LWEtc2hvZS1zaGVs/Zi1waG90by5qcGc',
         altText: 'Elegant Step Heels'
     },
     3: {
