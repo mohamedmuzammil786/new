@@ -1,4 +1,4 @@
-// Product Images Database - Store all product images here
+// Product Images Database - Centralized image storage
 const productImages = {
     1: {
         id: 1,
@@ -86,7 +86,6 @@ const productImages = {
     }
 };
 
-// Function to get product image by ID
 function getProductImage(productId) {
     return productImages[productId] || {
         imageUrl: 'https://via.placeholder.com/400x400/FF6B35/FFFFFF?text=Shoe+Image',
@@ -95,12 +94,6 @@ function getProductImage(productId) {
     };
 }
 
-// Function to get all images
 function getAllProductImages() {
     return productImages;
-}
-
-// Export for use in other files
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { productImages, getProductImage, getAllProductImages };
 }
